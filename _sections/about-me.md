@@ -1,7 +1,6 @@
 ---
 title: About Me
 icon: fa-user
-layout: post
 order: 2
 ---
 
