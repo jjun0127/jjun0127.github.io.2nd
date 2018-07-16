@@ -6,6 +6,7 @@ auto-header: none
 icon: fa-comment
 order: 1
 ---
+## FancyDev
 
-# Fancy_Dev
 #### Junha's programming history
+from 2018.07.16
