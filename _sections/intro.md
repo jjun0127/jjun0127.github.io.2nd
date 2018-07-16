@@ -7,4 +7,5 @@ icon: fa-comment
 order: 1
 ---
 
-Junha's programming history
+## The Fancy Dev
+#### Junha's programming history
